@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hadoop Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nav_about_us">About Us</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Introduction</item>
+        <item>Machine Setup</item>
+        <item>Java Configuration</item>
+        <item>Hadoop Configuration</item>
+    </string-array>
+
+    <string name="banner_programmin_app_ad">ca-app-pub-7668854432001933/8403548801</string>
+    <string name="interstitial_full_screen">ca-app-pub-7668854432001933/9880282000</string>
+</resources>
